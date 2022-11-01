@@ -1,4 +1,5 @@
 # Noteable Projects
+* [The Defenders Guide](https://github.com/Defenders-Guide/TheDefendersGuide) (Co-Author)
 * [Windows APIs To Sysmon-Events](https://github.com/jsecurity101/Windows-API-To-Sysmon-Events) (Author)
 * [MSRPC-To-ATT&CK](https://github.com/jsecurity101/MSRPC-to-ATTACK) (Author)
 * [Marvel-Lab](https://github.com/jsecurity101/Marvel-Lab) (Co-Author)

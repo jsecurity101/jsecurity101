@@ -1,6 +1,6 @@
 # Noteable Projects
-* [The Defenders Guide](https://github.com/Defenders-Guide/TheDefendersGuide) (Co-Author)
 * [Telemetry Source](https://github.com/jsecurity101/TelemetrySource) (Author)
+* [The Defenders Guide](https://github.com/Defenders-Guide/TheDefendersGuide) (Co-Author)
 * [MSRPC-To-ATT&CK](https://github.com/jsecurity101/MSRPC-to-ATTACK) (Author)
 * [Marvel-Lab](https://github.com/jsecurity101/Marvel-Lab) (Co-Author)
 * [AtomicTestHarnesses](https://github.com/redcanaryco/AtomicTestHarnesses) (Contributor)
@@ -19,14 +19,16 @@
     * [Part 1: Understanding the Basics](https://jsecurity101.medium.com/wmi-internals-part-1-41bb97e7f5eb)
     * [Part 2: Reversing a WMI Provider](https://jsecurity101.medium.com/wmi-internals-part-2-522f3e97709a)
     * [Part 3: Beyond COM](https://jsecurity101.medium.com/wmi-internals-part-3-38e5dad016be)
-
+* Uncovering Window Security Events: 
+   * [Part 1: TelemetrySource](https://posts.specterops.io/uncovering-window-security-events-ab72e1ec745c)
 
 # Presentations
 1. [A Voyage to Uncovering RPC Telemetry – (SO-CON 2020)](https://www.youtube.com/watch?v=TEHQwgd7i7Y)
 2. [Understanding Technique Abstraction for Detection Engineers Workshop - (SO-CON 2020)](https://www.youtube.com/watch?v=Xxj-jvNQWHU&t=45s)
 3. MSRPC ATT&CK Mapping - EU MITRE 8th Workshop
-4. [Insights into Highly Valued Data Sources - ATT&CKCON 3.0](https://www.youtube.com/watch?v=ba2e9pWxboU&t=864s)
-5. [Once Upon A Login: How Logon Sessions Help Defenders See the Bigger Picture](https://youtu.be/dFw5eoWSXWg?t=10552)
+4. [Insights into Highly Valued Data Sources - ATT&CKCON 3.0 2022](https://www.youtube.com/watch?v=ba2e9pWxboU&t=864s)
+5. [Once Upon A Login: How Logon Sessions Help Defenders See the Bigger Picture 2022](https://youtu.be/dFw5eoWSXWg?t=10552)
+5. [DEATHCon 2022 - Mapping Detection Coverage](https://youtu.be/tNfWSE4M4qg)
 
 # Misc Noteable Scripts/Code/Findings
 * [LogonSessionProcesses.ps1](https://gist.github.com/jsecurity101/12e75415b35a5d220d13674e9ed43373)

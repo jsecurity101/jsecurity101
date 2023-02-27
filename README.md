@@ -19,8 +19,9 @@
     * [Part 1: Understanding the Basics](https://jsecurity101.medium.com/wmi-internals-part-1-41bb97e7f5eb)
     * [Part 2: Reversing a WMI Provider](https://jsecurity101.medium.com/wmi-internals-part-2-522f3e97709a)
     * [Part 3: Beyond COM](https://jsecurity101.medium.com/wmi-internals-part-3-38e5dad016be)
-* Uncovering Window Security Events: 
+* Uncovering Window Events: 
    * [Part 1: TelemetrySource](https://posts.specterops.io/uncovering-window-security-events-ab72e1ec745c)
+   * [Part 2: The Methodology](https://jsecurity101.medium.com/uncovering-window-security-events-8c11a9dcdf34)
 
 # Presentations
 1. [A Voyage to Uncovering RPC Telemetry – (SO-CON 2020)](https://www.youtube.com/watch?v=TEHQwgd7i7Y)

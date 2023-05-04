@@ -5,6 +5,7 @@
 * [Marvel-Lab](https://github.com/jsecurity101/Marvel-Lab) (Co-Author)
 * [AtomicTestHarnesses](https://github.com/redcanaryco/AtomicTestHarnesses) (Contributor)
 * [SeatBelt](https://github.com/GhostPack/Seatbelt) (Contributor)
+* [MITRE ATT&CK - Access Token Manipulation](https://attack.mitre.org/techniques/T1134/001/) (Contributor)
 
 # Publications
 ### Research Papers:
@@ -22,6 +23,9 @@
 * Uncovering Window Events: 
    * [Part 1: TelemetrySource](https://posts.specterops.io/uncovering-window-security-events-ab72e1ec745c)
    * [Part 2: The Methodology](https://jsecurity101.medium.com/uncovering-window-security-events-8c11a9dcdf34)
+   * [Threat Intelligence ETW](https://medium.com/specter-ops-posts/uncovering-windows-events-b4b9db7eac54)
+* [The Defender’s Guide to Windows Services](https://medium.com/specter-ops-posts/the-defenders-guide-to-windows-services-67c1711ecba7)
+* [Exploring Impersonation through the Named Pipe Filesystem Driver](https://medium.com/specter-ops-posts/exploring-impersonation-through-the-named-pipe-filesystem-driver-15f324dfbaf2)
 
 # Presentations
 1. [A Voyage to Uncovering RPC Telemetry – (SO-CON 2020)](https://www.youtube.com/watch?v=TEHQwgd7i7Y)

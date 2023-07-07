@@ -21,11 +21,12 @@
     * [Part 2: Reversing a WMI Provider](https://jsecurity101.medium.com/wmi-internals-part-2-522f3e97709a)
     * [Part 3: Beyond COM](https://jsecurity101.medium.com/wmi-internals-part-3-38e5dad016be)
 * Uncovering Window Events: 
-   * [Part 1: TelemetrySource](https://posts.specterops.io/uncovering-window-security-events-ab72e1ec745c)
+   * [Part 1: TelemetrySource](https://medium.com/@jsecurity101/uncovering-window-security-events-ab72e1ec745c)
    * [Part 2: The Methodology](https://jsecurity101.medium.com/uncovering-window-security-events-8c11a9dcdf34)
-   * [Threat Intelligence ETW](https://medium.com/specter-ops-posts/uncovering-windows-events-b4b9db7eac54)
+   * [Threat Intelligence ETW](https://medium.com/@jsecurity101/uncovering-windows-events-b4b9db7eac54)
 * [The Defender’s Guide to Windows Services](https://medium.com/specter-ops-posts/the-defenders-guide-to-windows-services-67c1711ecba7)
-* [Exploring Impersonation through the Named Pipe Filesystem Driver](https://medium.com/specter-ops-posts/exploring-impersonation-through-the-named-pipe-filesystem-driver-15f324dfbaf2)
+* [Exploring Impersonation through the Named Pipe Filesystem Driver](https://medium.com/@jsecurity101/exploring-impersonation-through-the-named-pipe-filesystem-driver-15f324dfbaf2)
+
 
 # Presentations
 1. [A Voyage to Uncovering RPC Telemetry – (SO-CON 2020)](https://www.youtube.com/watch?v=TEHQwgd7i7Y)

@@ -1,4 +1,5 @@
 # Noteable Projects
+* [JonMon](https://github.com/jsecurity101/JonMon) (Author)
 * [Telemetry Source](https://github.com/jsecurity101/TelemetrySource) (Author)
 * [The Defenders Guide](https://github.com/Defenders-Guide/TheDefendersGuide) (Co-Author)
 * [MSRPC-To-ATT&CK](https://github.com/jsecurity101/MSRPC-to-ATTACK) (Author)
@@ -12,7 +13,6 @@
 * [A Voyage to Uncovering Telemetry: Identifying RPC Telemetry for Detection Engineers](https://specterops.io/wp-content/uploads/sites/3/2022/06/RPC_for_Detection_Engineers.pdf)
 
 ### Most Noteable [Blogs](https://medium.com/@jsecurity101):
-* [Uncovering The Unkowns](https://jsecurity101.medium.com/uncovering-the-unknowns-a47c93bb6971)
 * [Better know a data source: Process integrity levels](https://jsecurity101.medium.com/better-know-a-data-source-process-integrity-levels-8338f3b74990)
 * [Better know a data source: Access tokens (and why they’re hard to get)](https://jsecurity101.medium.com/better-know-a-data-source-access-tokens-and-why-theyre-hard-to-get-7bc951eae0b9)
 * [Exploring Token Members Part 2](https://jsecurity101.medium.com/exploring-token-members-part-2-2a09d13cbb3)
@@ -26,6 +26,9 @@
    * [Threat Intelligence ETW](https://medium.com/@jsecurity101/uncovering-windows-events-b4b9db7eac54)
 * [The Defender’s Guide to Windows Services](https://medium.com/specter-ops-posts/the-defenders-guide-to-windows-services-67c1711ecba7)
 * [Exploring Impersonation through the Named Pipe Filesystem Driver](https://medium.com/@jsecurity101/exploring-impersonation-through-the-named-pipe-filesystem-driver-15f324dfbaf2)
+* [Demystifying DLL Hijacking Understanding the Intricate World of Dynamic Link Library Attacks](https://www.binarydefense.com/resources/blog/demystifying-dll-hijacking-understanding-the-intricate-world-of-dynamic-link-library-attacks/)
+* [Understanding Telemetry: Kernel Callbacks](https://medium.com/@jsecurity101/understanding-telemetry-kernel-callbacks-1a97cfcb8fb3)
+* [ThreadSleeper: Suspending Threads via GMER64 Driver](https://medium.com/@jsecurity101/threadsleeper-suspending-threads-via-gmer64-driver-b08824ca3b15)
 
 
 # Presentations
@@ -33,8 +36,9 @@
 2. [Understanding Technique Abstraction for Detection Engineers Workshop - (SO-CON 2020)](https://www.youtube.com/watch?v=Xxj-jvNQWHU&t=45s)
 3. MSRPC ATT&CK Mapping - EU MITRE 8th Workshop
 4. [Insights into Highly Valued Data Sources - ATT&CKCON 3.0 2022](https://www.youtube.com/watch?v=ba2e9pWxboU&t=864s)
-5. [Once Upon A Login: How Logon Sessions Help Defenders See the Bigger Picture 2022](https://youtu.be/dFw5eoWSXWg?t=10552)
+6. [Once Upon A Login: How Logon Sessions Help Defenders See the Bigger Picture 2022](https://youtu.be/dFw5eoWSXWg?t=10552)
 5. [DEATHCon 2022 - Mapping Detection Coverage](https://youtu.be/tNfWSE4M4qg)
+6. [JonMon](https://github.com/jsecurity101/Presentations/blob/main/JonMon.pdf)
 
 # Misc Noteable Scripts/Code/Findings
 * [LogonSessionProcesses.ps1](https://gist.github.com/jsecurity101/12e75415b35a5d220d13674e9ed43373)

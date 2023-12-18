@@ -1,6 +1,7 @@
 # Noteable Projects
 * [JonMon](https://github.com/jsecurity101/JonMon) (Author)
 * [Telemetry Source](https://github.com/jsecurity101/TelemetrySource) (Author)
+* [PowerParse](https://github.com/jsecurity101/PowerParse) (Author)
 * [The Defenders Guide](https://github.com/Defenders-Guide/TheDefendersGuide) (Co-Author)
 * [MSRPC-To-ATT&CK](https://github.com/jsecurity101/MSRPC-to-ATTACK) (Author)
 * [Marvel-Lab](https://github.com/jsecurity101/Marvel-Lab) (Co-Author)

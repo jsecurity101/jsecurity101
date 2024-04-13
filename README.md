@@ -2,9 +2,8 @@
 * [JonMon](https://github.com/jsecurity101/JonMon) (Author)
 * [Telemetry Source](https://github.com/jsecurity101/TelemetrySource) (Author)
 * [PowerParse](https://github.com/jsecurity101/PowerParse) (Author)
+* [MSFT_DriverBlockList](https://github.com/jsecurity101/MSFT_DriverBlockList) (Author)
 * [The Defenders Guide](https://github.com/Defenders-Guide/TheDefendersGuide) (Co-Author)
-* [MSRPC-To-ATT&CK](https://github.com/jsecurity101/MSRPC-to-ATTACK) (Author)
-* [Marvel-Lab](https://github.com/jsecurity101/Marvel-Lab) (Co-Author)
 * [AtomicTestHarnesses](https://github.com/redcanaryco/AtomicTestHarnesses) (Contributor)
 * [SeatBelt](https://github.com/GhostPack/Seatbelt) (Contributor)
 * [MITRE ATT&CK - Access Token Manipulation](https://attack.mitre.org/techniques/T1134/001/) (Contributor)
@@ -30,6 +29,7 @@
 * [Demystifying DLL Hijacking Understanding the Intricate World of Dynamic Link Library Attacks](https://www.binarydefense.com/resources/blog/demystifying-dll-hijacking-understanding-the-intricate-world-of-dynamic-link-library-attacks/)
 * [Understanding Telemetry: Kernel Callbacks](https://medium.com/@jsecurity101/understanding-telemetry-kernel-callbacks-1a97cfcb8fb3)
 * [ThreadSleeper: Suspending Threads via GMER64 Driver](https://medium.com/@jsecurity101/threadsleeper-suspending-threads-via-gmer64-driver-b08824ca3b15)
+* [Understanding ETW Patching](https://medium.com/@jsecurity101/understanding-etw-patching-9f5af87f9d7b)
 
 
 # Presentations
@@ -47,3 +47,5 @@
 * [Get-IntegrityLevel.ps1](https://gist.github.com/jsecurity101/5ef14a0b537af36ce448b28c707c6976)
 * [System Privileges Mapping](https://gist.github.com/jsecurity101/0615700b5d53e599b483f13220634622)
 * [Kerberos Correlation Detections](https://gist.github.com/jsecurity101/4f82d1ec608671bdf722a43b9291a8ba)
+* [PowerParse](https://github.com/jsecurity101/PowerParse)
+* [RandomPOCs](https://github.com/jsecurity101/RandomPOCs)

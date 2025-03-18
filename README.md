@@ -42,6 +42,7 @@
 6. [Once Upon A Login: How Logon Sessions Help Defenders See the Bigger Picture 2022](https://youtu.be/dFw5eoWSXWg?t=10552)
 5. [DEATHCon 2022 - Mapping Detection Coverage](https://youtu.be/tNfWSE4M4qg)
 6. [JonMon](https://github.com/jsecurity101/Presentations/blob/main/JonMon.pdf)
+7. [Empowering Research with Defensive Tooling](https://youtu.be/obce8VdFMeU?si=pY9ZrZtg3FEMDlZh)
 
 # Misc Noteable Scripts/Code/Findings
 * [LogonSessionProcesses.ps1](https://gist.github.com/jsecurity101/12e75415b35a5d220d13674e9ed43373)

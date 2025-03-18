@@ -30,6 +30,8 @@
 * [Understanding Telemetry: Kernel Callbacks](https://medium.com/@jsecurity101/understanding-telemetry-kernel-callbacks-1a97cfcb8fb3)
 * [ThreadSleeper: Suspending Threads via GMER64 Driver](https://medium.com/@jsecurity101/threadsleeper-suspending-threads-via-gmer64-driver-b08824ca3b15)
 * [Understanding ETW Patching](https://medium.com/@jsecurity101/understanding-etw-patching-9f5af87f9d7b)
+* [Mastering Windows Access Control: Understanding SeDebugPrivilege](https://jsecurity101.medium.com/mastering-windows-access-control-understanding-sedebugprivilege-28a58c2e5314)
+* [Silencing the EDR Silencers](https://jsecurity101.medium.com/silencing-the-edr-silencers-b703d7089821)
 
 
 # Presentations
